@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Farizzi and I'm an Undergraduate Informatics Engineering Student, from Tadulako University</h2>
+<h2 align="left">Hi 👋! My name is Farizzi</h2>
 
 ###
 
